@@ -1,6 +1,11 @@
 <ul class="list">
   <li class="list-item" *ngFor="let user of users">
-    <img class="avatar" [src]="user.avatarUrl" alt="Avatar">
+    <reusable-avatar
+      [avatarUrl]="'http://127.0.0.1:8080/' + user.avatarUrl"
+      [friends]="user.connections.friends"
+      [groups]="user.connections.groups"
+      [articles]="user.connections.articles"
+    ></reusable-avatar>
     <div>
         <p><strong>{{ user.name }}</strong></p>
         <p>{{ user.phoneNo }}</p>

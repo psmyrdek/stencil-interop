@@ -2,9 +2,9 @@
     "users": [
         {
             "id": 1,
-            "name": "John Doe",
+            "name": "Mia Newton",
             "phoneNo": "+1 123 32 122",
-            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "avatarUrl": "/data/1.jpeg",
             "connections": {
                 "friends": 10,
                 "groups": 12,
@@ -13,9 +13,9 @@
         },
         {
             "id": 2,
-            "name": "Mark Johnsson",
+            "name": "Mikaela Bowie",
             "phoneNo": "+1 223 12 145",
-            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "avatarUrl": "/data/2.jpeg",
             "connections": {
                 "friends": 10,
                 "groups": 1,
@@ -24,9 +24,9 @@
         },
         {
             "id": 3,
-            "name": "Mikaela Bowie",
+            "name": "Judy Dawson",
             "phoneNo": "+1 321 12 321",
-            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "avatarUrl": "/data/3.jpeg",
             "connections": {
                 "friends": 10,
                 "groups": 4,
@@ -35,9 +35,9 @@
         },
         {
             "id": 4,
-            "name": "Anna Dowson",
+            "name": "Mark Jacobs",
             "phoneNo": "+1 123 44 111",
-            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "avatarUrl": "/data/4.jpeg",
             "connections": {
                 "friends": 10,
                 "groups": 4,
@@ -48,7 +48,7 @@
             "id": 5,
             "name": "Chad McKenzie",
             "phoneNo": "+1 123 32 655",
-            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "avatarUrl": "/data/5.jpeg",
             "connections": {
                 "friends": 12,
                 "groups": 14,

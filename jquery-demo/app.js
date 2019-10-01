@@ -11,7 +11,12 @@ function fetchUsers($list) {
 function updateList($list, user) {
     $list.append(`
         <li class="list-item">
-            <img class="avatar" src="${user.avatarUrl}" alt="Avatar" />
+            <reusable-avatar
+                avatar-url="${user.avatarUrl}"
+                friends="${user.connections.friends}"
+                groups="${user.connections.groups}"
+                articles="${user.connections.articles}">
+            </reusable-avatar>
             <p>${user.name}</p>
         </li>
     `)   
