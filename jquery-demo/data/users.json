@@ -1,0 +1,59 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "phoneNo": "+1 123 32 122",
+            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "connections": {
+                "friends": 10,
+                "groups": 12,
+                "articles": 5
+            }
+        },
+        {
+            "id": 2,
+            "name": "Mark Johnsson",
+            "phoneNo": "+1 223 12 145",
+            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "connections": {
+                "friends": 10,
+                "groups": 1,
+                "articles": 4
+            }
+        },
+        {
+            "id": 3,
+            "name": "Mikaela Bowie",
+            "phoneNo": "+1 321 12 321",
+            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "connections": {
+                "friends": 10,
+                "groups": 4,
+                "articles": 11
+            }
+        },
+        {
+            "id": 4,
+            "name": "Anna Dowson",
+            "phoneNo": "+1 123 44 111",
+            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "connections": {
+                "friends": 10,
+                "groups": 4,
+                "articles": 12
+            }
+        },
+        {
+            "id": 5,
+            "name": "Chad McKenzie",
+            "phoneNo": "+1 123 32 655",
+            "avatarUrl": "https://thispersondoesnotexist.com/image",
+            "connections": {
+                "friends": 12,
+                "groups": 14,
+                "articles": 8
+            }
+        }
+    ]
+}

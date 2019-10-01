@@ -1,0 +1,30 @@
+html {
+    font-family: 'Lato', sans-serif;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background: #eaeaea;
+}
+
+.list {
+    margin: 0;
+    padding: 5px;
+}
+
+.list-item {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+}

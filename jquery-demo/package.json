@@ -1,0 +1,17 @@
+{
+  "name": "jquery-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "3.4.1"
+  },
+  "devDependencies": {
+    "live-server": "1.2.1"
+  },
+  "scripts": {
+    "start": "live-server . --cors"
+  },
+  "author": "psmyrdek",
+  "license": "ISC"
+}
