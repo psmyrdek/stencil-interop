@@ -1,5 +1,9 @@
 # Stencil interop examples
 
+Two basic examples of reusing Stencil-based web component in jQuery and Angular environments.
+
+![](./media/promo.gif)
+
 Demo app for Przeprogramowani.pl [YouTube channel](https://www.youtube.com/channel/UCb2Y3vMeD6N4WDt5Acw7Arw).
 
 ## Before you start
